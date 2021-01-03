@@ -1,0 +1,2 @@
+This project was created to store small utility classes that are too small to create a separate repository for them, 
+but at the same time are quite useful, in my opinion, and I would like to keep them.
